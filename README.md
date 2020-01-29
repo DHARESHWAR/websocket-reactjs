@@ -7,3 +7,7 @@ To start the project.
     to install the package dependencies specified in package.json
 3. npm start
      to start the node server
+
+
+Code explanation is included in my article : 
+https://helptechcommunity.wordpress.com/2020/01/28/websocket-chat-application-using-spring-boot-and-react-js/
