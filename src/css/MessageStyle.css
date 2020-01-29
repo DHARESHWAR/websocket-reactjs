@@ -1,0 +1,20 @@
+.title1 {
+    text-align: left;
+    color: #269CEB;
+    margin-top: 0px;
+    float: left;
+    clear: both;
+}
+
+.title2 {
+    text-align: left;
+    color: #FF9D00;
+    margin-top: 0px;
+    float: left;
+    clear: both;
+}
+
+.align-center {
+    display: flex;
+    justify-content: center;
+}
